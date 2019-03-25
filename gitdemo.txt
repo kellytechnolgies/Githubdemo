@@ -1,3 +1,5 @@
 Names: Durga,Srinu,Mudasir
 Trainee: Jagdessh
 location: Ameerpet
+Git and Github topics 
+pull and push concepts discussed 
